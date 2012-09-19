@@ -1,0 +1,7 @@
+body {background-color:white;}
+h1 {color:grey;
+	font-family:helvetica, arial, sans-serif;}
+p {color:blue;
+	font-family:garamond, georgia, serif;} /*I think this is how I comment something out in CSS?*/
+li {color:green;}
+
